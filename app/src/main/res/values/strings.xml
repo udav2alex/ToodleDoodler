@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ToodleDoodler</string>
+    <string name="enter_full_path_to_file">Enter full path to file</string>
+    <string name="image_description">Loaded/converted picture</string>
+    <string name="load_image">Load image</string>
+    <string name="convert_image">Convert image</string>
+    <string name="enter_convert_quality">Enter convert quality in %, 80 by default</string>
+    <string name="cancel_message">Please wait or stop the operation</string>
+    <string name="work_in_progress">Work in progress</string>
+    <string name="well_done">Well done!</string>
+    <string name="default_path">/storage/emulated/0/Download/test.jpg</string>
 </resources>
